@@ -18,4 +18,4 @@ else:
 # 측정 종료
 end_time = time.time()
 # 수행 시간 출력
-print('풀어쓴거 정렬 성능 측정:', end_time - start_time)
+print('풀어쓴거 성능 측정:', end_time - start_time)
